@@ -217,6 +217,9 @@
         <mxCell id="CCszadM2E9oEaxs9C1cm-57" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="260" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CCszadM2E9oEaxs9C1cm-58" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
