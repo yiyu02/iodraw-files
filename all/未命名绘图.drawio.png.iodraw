@@ -61,7 +61,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CCszadM2E9oEaxs9C1cm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCszadM2E9oEaxs9C1cm-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CCszadM2E9oEaxs9C1cm-1" target="CCszadM2E9oEaxs9C1cm-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCszadM2E9oEaxs9C1cm-1" value="[CLS]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CCszadM2E9oEaxs9C1cm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -202,8 +205,8 @@
         <mxCell id="CCszadM2E9oEaxs9C1cm-48" value="段嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-20" y="288" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCszadM2E9oEaxs9C1cm-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="338" width="50" height="30" as="geometry" />
+        <mxCell id="CCszadM2E9oEaxs9C1cm-49" value="位置嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="338" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
