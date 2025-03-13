@@ -61,9 +61,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CCszadM2E9oEaxs9C1cm-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CCszadM2E9oEaxs9C1cm-1" target="CCszadM2E9oEaxs9C1cm-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CCszadM2E9oEaxs9C1cm-1" value="[CLS]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="50" height="20" as="geometry" />
         </mxCell>
@@ -97,7 +94,7 @@
         <mxCell id="CCszadM2E9oEaxs9C1cm-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="190" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CCszadM2E9oEaxs9C1cm-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCszadM2E9oEaxs9C1cm-13" value="E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CCszadM2E9oEaxs9C1cm-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
