@@ -73,10 +73,10 @@
         <mxCell id="CCszadM2E9oEaxs9C1cm-4" value="was" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CCszadM2E9oEaxs9C1cm-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCszadM2E9oEaxs9C1cm-6" value="good" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CCszadM2E9oEaxs9C1cm-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCszadM2E9oEaxs9C1cm-7" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="190" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CCszadM2E9oEaxs9C1cm-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
