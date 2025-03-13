@@ -169,9 +169,6 @@
         <mxCell id="CCszadM2E9oEaxs9C1cm-37" value="E&lt;sub&gt;2&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="340" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CCszadM2E9oEaxs9C1cm-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CCszadM2E9oEaxs9C1cm-38" target="CCszadM2E9oEaxs9C1cm-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CCszadM2E9oEaxs9C1cm-38" value="E&lt;sub&gt;3&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="340" width="50" height="20" as="geometry" />
         </mxCell>
@@ -236,7 +233,10 @@
           <mxGeometry x="540" y="260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CCszadM2E9oEaxs9C1cm-63" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="30" height="30" as="geometry" />
+          <mxGeometry x="620" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCszadM2E9oEaxs9C1cm-65" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
