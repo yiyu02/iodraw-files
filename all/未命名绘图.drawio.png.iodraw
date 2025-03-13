@@ -196,8 +196,8 @@
         <mxCell id="CCszadM2E9oEaxs9C1cm-46" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-15" y="188" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCszadM2E9oEaxs9C1cm-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="238" width="50" height="30" as="geometry" />
+        <mxCell id="CCszadM2E9oEaxs9C1cm-47" value="标记嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="235" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
