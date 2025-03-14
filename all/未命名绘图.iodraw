@@ -385,7 +385,7 @@
         <mxCell id="WpTbHzIRuVxiRtPQsHkU-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="50" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="WpTbHzIRuVxiRtPQsHkU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-6" value="拼接&lt;div&gt;&amp;nbsp;Combined&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="325" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
