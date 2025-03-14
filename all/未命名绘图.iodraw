@@ -325,6 +325,9 @@
         <mxCell id="1x0-cW_UwdjA4A_xnEhl-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="180" height="400" as="geometry" />
         </mxCell>
+        <mxCell id="1x0-cW_UwdjA4A_xnEhl-13" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
