@@ -379,6 +379,12 @@
         <mxCell id="WpTbHzIRuVxiRtPQsHkU-1" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;语义特征&amp;nbsp;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;(Semantic)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-2" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;句法特征&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&amp;nbsp;(Syntactic)&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
