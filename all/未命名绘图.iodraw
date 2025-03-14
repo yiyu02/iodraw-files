@@ -391,8 +391,11 @@
         <mxCell id="WpTbHzIRuVxiRtPQsHkU-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WpTbHzIRuVxiRtPQsHkU-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-10" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;门控网络:&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;FC + Sigmoid&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
