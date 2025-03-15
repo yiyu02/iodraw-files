@@ -397,6 +397,9 @@
         <mxCell id="WpTbHzIRuVxiRtPQsHkU-11" value="线性变换:&lt;div&gt;FC&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
