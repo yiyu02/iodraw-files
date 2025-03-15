@@ -409,9 +409,9 @@
         <mxCell id="WpTbHzIRuVxiRtPQsHkU-15" value="融合特征输出&amp;nbsp;&lt;div&gt;(Fused Feature)&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="325" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WpTbHzIRuVxiRtPQsHkU-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.433;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WpTbHzIRuVxiRtPQsHkU-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="300" y="360" as="sourcePoint" />
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
