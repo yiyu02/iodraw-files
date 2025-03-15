@@ -48,10 +48,16 @@
           <mxGeometry x="470" y="62.5" width="50" height="235" as="geometry" />
         </mxCell>
         <mxCell id="5YrdjJzubpVHw7kfKs9l-17" value="方面抽取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YrdjJzubpVHw7kfKs9l-18" value="情感分类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o6Kr6-DHHUWu0p-228vU-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="150" as="sourcePoint" />
+            <mxPoint x="440" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
