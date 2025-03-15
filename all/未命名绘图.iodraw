@@ -400,6 +400,9 @@
         <mxCell id="WpTbHzIRuVxiRtPQsHkU-12" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;计算门控权重&amp;nbsp;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Gate&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="250" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-13" value="计算变换特征&amp;nbsp;&lt;div&gt;Transformed&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
