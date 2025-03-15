@@ -406,8 +406,8 @@
         <mxCell id="WpTbHzIRuVxiRtPQsHkU-14" value="融合计算" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="330" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WpTbHzIRuVxiRtPQsHkU-15" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="220" width="120" height="80" as="geometry" />
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-15" value="融合特征输出&amp;nbsp;&lt;div&gt;(Fused Feature)&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="325" y="40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
