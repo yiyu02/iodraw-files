@@ -421,13 +421,11 @@
             <mxPoint x="302" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WpTbHzIRuVxiRtPQsHkU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WpTbHzIRuVxiRtPQsHkU-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="330" as="targetPoint" />
+        <mxCell id="WpTbHzIRuVxiRtPQsHkU-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WpTbHzIRuVxiRtPQsHkU-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="60" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
