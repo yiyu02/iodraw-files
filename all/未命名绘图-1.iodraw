@@ -555,7 +555,7 @@
             <mxPoint x="560" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo1wF34pRRyuB7ybDp_a-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Bo1wF34pRRyuB7ybDp_a-21" value="x&lt;sub&gt;vi&lt;/sub&gt;&lt;sup&gt;(t)&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="408" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
