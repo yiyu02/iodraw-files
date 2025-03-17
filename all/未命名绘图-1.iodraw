@@ -519,8 +519,8 @@
         <mxCell id="Bo1wF34pRRyuB7ybDp_a-12" value="m&lt;sub&gt;e&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;&lt;sup&gt;(t+1)&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="363" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bo1wF34pRRyuB7ybDp_a-13" value="m&lt;sub&gt;ei&lt;/sub&gt;&lt;sup&gt;(t+1)&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="488" width="60" height="30" as="geometry" />
+        <mxCell id="Bo1wF34pRRyuB7ybDp_a-13" value="m&lt;sub&gt;en&lt;/sub&gt;&lt;sup&gt;(t+1)&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="488" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bo1wF34pRRyuB7ybDp_a-14" value="v&lt;sub&gt;i&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="470" y="472.5" width="37.5" height="37.5" as="geometry" />
@@ -565,7 +565,7 @@
           <mxGeometry x="520" y="343" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bo1wF34pRRyuB7ybDp_a-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="507.5" y="300" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
