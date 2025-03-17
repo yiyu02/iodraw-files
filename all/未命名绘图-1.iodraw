@@ -483,8 +483,14 @@
         <mxCell id="Bo1wF34pRRyuB7ybDp_a-3" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bo1wF34pRRyuB7ybDp_a-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="540" width="45" height="45" as="geometry" />
+        <mxCell id="Bo1wF34pRRyuB7ybDp_a-4" value="v&lt;sub&gt;i&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="530" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Bo1wF34pRRyuB7ybDp_a-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
