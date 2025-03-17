@@ -477,11 +477,14 @@
         <mxCell id="Bo1wF34pRRyuB7ybDp_a-1" value="v&lt;sub&gt;1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="290" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bo1wF34pRRyuB7ybDp_a-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Bo1wF34pRRyuB7ybDp_a-2" value="v&lt;sub&gt;2&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bo1wF34pRRyuB7ybDp_a-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Bo1wF34pRRyuB7ybDp_a-3" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bo1wF34pRRyuB7ybDp_a-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="560" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
