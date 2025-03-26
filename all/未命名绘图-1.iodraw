@@ -631,7 +631,7 @@
             <mxPoint x="250" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="07wh6tuTm7jKe6CmBygG-94" value="Scale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="07wh6tuTm7jKe6CmBygG-94" value="&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;Scale&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="430" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
