@@ -605,7 +605,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="07wh6tuTm7jKe6CmBygG-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="90" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="90" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="07wh6tuTm7jKe6CmBygG-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
