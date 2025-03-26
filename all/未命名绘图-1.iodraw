@@ -650,7 +650,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="07wh6tuTm7jKe6CmBygG-100" value="&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;MatMul&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="230" y="250" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
