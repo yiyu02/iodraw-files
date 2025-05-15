@@ -792,8 +792,8 @@
         <mxCell id="RbzBWNg1LDG76DOKCR_c-32" value="&lt;b&gt;SUM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RbzBWNg1LDG76DOKCR_c-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="158" width="50" height="30" as="geometry" />
+        <mxCell id="RbzBWNg1LDG76DOKCR_c-36" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 25.6px; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;ω(t-2)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 25.6px; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="138" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
